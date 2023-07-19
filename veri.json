@@ -1,0 +1,60 @@
+
+  [
+    {
+         "bomid": 1,
+         "kod":"10100205-1",
+         "urunadi":"arn-12 ana ürün",
+         "altbom":"10100206-1",
+         "miktar":1,
+         "birim":"Adet"
+     },
+     {
+        "bomid": 2,
+         "kod":"10100206-1",
+         "urunadi":"arn-12 yanca",
+         "altbom":"10100209-1",
+         "miktar":1,
+         "birim":"Adet"
+     },
+     {
+        "bomid": 3,
+         "kod":"10100206-1",
+         "urunadi":"arn-12 yanca",
+         "altbom":"10100208-1",
+         "miktar":4,
+         "birim":"Adet"
+     },  
+     {
+         "bomid": 4,
+         "kod":"10100206-1",
+         "urunadi":"arn-12 ana gövde",
+         "altbom":"10100207-1",
+         "miktar":1,
+         "birim":"Adet"
+     },
+     {
+        "bomid": 5,
+        "kod":"10100206-1",
+        "urunadi":"arn-12 yükseliş",
+        "altbom":"10100210-1",
+        "miktar":1,
+        "birim":"Adet"
+    },
+    {
+        "bomid": 7,
+        "kod":"10100207-1",
+        "urunadi":"arn-12 ana gövde",
+        "altbom":"10100207.K",
+        "miktar":1,
+        "birim":"Adet"
+    },
+    {
+        "bomid": 7,
+        "kod":"10100207.K",
+        "urunadi":"arn-12 ana gövde",
+        "altbom":"10100226",
+        "miktar":1,
+        "birim":"Adet"
+    }
+]
+

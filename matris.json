@@ -1,0 +1,152 @@
+[
+    {
+    "urunKod":"10100205-1",
+    "cari":"aselsan",
+    "ay":"TEMMUZ",
+    "hedef":400,
+    "gercek":0
+    },
+    {
+        "urunKod":"10100205-1",
+        "cari":"aselsan",
+        "ay":"AĞUSTOS",
+        "hedef":400,
+        "gercek":0
+    
+    }
+    ,
+    {
+        "urunKod":"10100205-1",
+        "cari":"aselsan",
+        "ay":"EYLÜL",
+        "hedef":400,
+        "gercek":0
+    
+    }
+    ,
+    {
+        "urunKod":"10100205-1",
+        "cari":"aselsan",
+        "ay":"EKİM",
+        "hedef":400,
+        "gercek":0
+    
+    }
+    ,
+    {
+        "urunKod":"10100205-1",
+        "cari":"aselsan",
+        "ay":"KASIM",
+        "hedef":400,
+        "gercek":0
+    
+    },
+    {
+        "urunKod":"10100205-1",
+        "cari":"aselsan",
+        "ay":"ARALIK",
+        "hedef":400,
+        "gercek":0
+    
+    },
+    {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"AĞUSTOS",
+        "hedef":100,
+        "gercek":0
+    
+    } ,
+     {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"EYLÜL",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"EKİM",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"KASIM",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"ARALIK",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10100205-2",
+        "cari":"aselsan",
+        "ay":"TEMMUZ",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-1",
+        "cari":"aselsan",
+        "ay":"AĞUSTOS",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-1",
+        "cari":"aselsan",
+        "ay":"TEMMUZ",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-1",
+        "cari":"aselsan",
+        "ay":"EYLÜL",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-1",
+        "cari":"aselsan",
+        "ay":"EKİM",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-1",
+        "cari":"aselsan",
+        "ay":"KASIM",
+        "hedef":100,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-15",
+        "cari":"aselsan",
+        "ay":"AĞUSTOS",
+        "hedef":1000,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-15",
+        "cari":"aselsan",
+        "ay":"KASIM",
+        "hedef":1000,
+        "gercek":0
+    
+    },  {
+        "urunKod":"10119455-15",
+        "cari":"aselsan",
+        "ay":"ARALIK",
+        "hedef":1000,
+        "gercek":0
+    
+    }
+]
